@@ -41,8 +41,7 @@ In the repository you will find a lot of resolved codewars challenges in typescr
 
 ### Built With
 
-- [![Next][next.js]][next-url]
-- [![TypeScript][typescript.js]][typescript-url]
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -54,24 +53,25 @@ To getting started you can clone a repository on your own computer. There's no l
 
 Installation
 
-- 1. clone
+clone
 
 ```sh
    git clone `URL` .
 ```
 
-^ Clone a repository in actual directory.
+Clone a repository in actual directory.
 
-- 2. npm
-  ```sh
-  npm install
-  ```
+npm
 
-^ Install a packages.
+```sh
+npm install
+```
+
+Install a packages.
 
 ## Contact
 
-GMAIL - [@gmail] - pluzeq@gmail.com
+GMAIL: pluzeq@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
